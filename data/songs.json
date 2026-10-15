@@ -8,15 +8,21 @@
     "overallAudio":"https://www.youtube.com/results?search_query=Hostia+Sancta+choir","score":"","tutorials":{}
   },
   {
-    "id":"ave-maria-arcadelt","type":"choir","title":"Ave Maria","artist":"Jacques Arcadelt","key":"F major","tags":["chant à la Vierge","polyphonie"],
+    "id":"ave-maria-arcadelt","type":"choir","title":"Ave Maria","artist":"Jacques Arcadelt","key":"F major","tags":["Chant à la Vierge","Latin","Religieux"],
     "overallAudio":"https://www.youtube.com/results?search_query=Arcadelt+Ave+Maria+choir","score":"scores/hosita-sancta.pdf","tutorials":{}
   },
   {
-    "id":"amazing-grace","type":"pop","title":"Amazing Grace","artist":"Traditional","key":"G","capo":0,"tags":["adoration"],
+    "id":"amazing-grace","type":"pop","title":"Amazing Grace","artist":"Traditional","key":"G","capo":0,"tags":["Religieux"],
     "content":"[G]Amazing grace, how [C]sweet the [G]sound\nThat saved a soul like [D]me\nI [G]once was lost, but [C]now am [G]found\nWas blind, but [D]now I [G]see"
   },
   {
-    "id":"au-clair-de-la-lune","type":"pop","title":"Au clair de la lune","artist":"Chanson traditionnelle française","key":"C","capo":0,"tags":["chanson française"],
+    "id":"au-clair-de-la-lune","type":"pop","title":"Au clair de la lune","artist":"Chanson traditionnelle française","key":"C","capo":0,"tags":["Chanson française"],
     "content":"[C]Au clair de la lune, mon ami Pierrot\nPrête-moi ta plume pour écrire un [G]mot\nMa chandelle est [C]morte, je n'ai plus de [F]feu\nOuvre-moi ta [C]porte, pour l'amour de [G]Dieu [C]"
+  },
+  {
+    "id":"santiano","type":"pop","title":"Santiano","artist":"Hugues Aufray","key":"E","capo":0,"tags":["Chanson française,""Scout"],
+    "content":
+    "[Em]                     [D]\nC'est un fameux trois-mâts fin comme un oiseau\n
+         [Em]        [D]\nHissez haut Santiano"
   }
 ]
