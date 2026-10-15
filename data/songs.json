@@ -5,11 +5,11 @@
   },
   {
     "id":"hostia-sancta","type":"choir","title":"Hostia Sancta","artist":"T. Dionis du Séjour","tags":["Adoration","Religieux"],
-    "overallAudio":"https://www.youtube.com/results?search_query=Hostia+Sancta+choir","score":"","tutorials":{}
+    "overallAudio":"https://www.youtube.com/results?search_query=Hostia+Sancta+choir","score":"scores/hostia-sancta.pdf","tutorials":{}
   },
   {
     "id":"ave-maria-arcadelt","type":"choir","title":"Ave Maria","artist":"Jacques Arcadelt","key":"F major","tags":["Chant à la Vierge","Latin","Religieux"],
-    "overallAudio":"https://www.youtube.com/results?search_query=Arcadelt+Ave+Maria+choir","score":"scores/hosita-sancta.pdf","tutorials":{}
+    "overallAudio":"https://www.youtube.com/results?search_query=Arcadelt+Ave+Maria+choir","score":"","tutorials":{}
   },
   {
     "id":"amazing-grace","type":"pop","title":"Amazing Grace","artist":"Traditional","key":"G","capo":0,"tags":["Religieux"],
@@ -21,8 +21,6 @@
   },
   {
     "id":"santiano","type":"pop","title":"Santiano","artist":"Hugues Aufray","key":"E","capo":0,"tags":["Chanson française,""Scout"],
-    "content":
-    "[Em]                     [D]\nC'est un fameux trois-mâts fin comme un oiseau\n
-         [Em]        [D]\nHissez haut Santiano"
+    "content":"[Em]                     [D]\nC'est un fameux trois-mâts fin comme un oiseau\n[Em]        [D]\nHissez haut Santiano"
   }
 ]
