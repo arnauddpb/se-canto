@@ -1,3 +1,4 @@
 [
-  {"id":"demo-concert","title":"Demo Concert","date":"2026-12-12","published":true,"songs":["dona-nobis-pacem","amazing-grace","au-clair-de-la-lune"]}
+  {"id":"demo-concert","title":"Demo Concert","date":"2026-12-12","published":true,"songs":["dona-nobis-pacem","amazing-grace","au-clair-de-la-lune"]},
+  {"id":"adoration-ndg","title":"Adoration NDG","date":"2026-10-13","published":true,"songs":["hostia-sancta","dieu-seul-suffit","ave-maria-arcadelt"]}
 ]
