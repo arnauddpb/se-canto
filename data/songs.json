@@ -1,11 +1,15 @@
 [
   {
-    "id":"dona-nobis-pacem","type":"choir","title":"Dona Nobis Pacem","artist":"Traditional canon","key":"F major","tags":["polyphonie"],
-    "overallAudio":"https://www.youtube.com/results?search_query=Dona+Nobis+Pacem+choir","score":"","tutorials":{}
+    "id":"dieu-seul-suffit","type":"choir","title":"Dieu seul suffit","artist":"Fr. JB du Jonchay","tags":["Adoration","Religieux"],
+    "overallAudio":"https://www.youtube.com/results?search_query=Dieu+Seul+Suffit+choir","score":"","tutorials":{}
+  },
+  {
+    "id":"hostia-sancta","type":"choir","title":"Hostia Sancta","artist":"T. Dionis du Séjour","tags":["Adoration","Religieux"],
+    "overallAudio":"https://www.youtube.com/results?search_query=Hostia+Sancta+choir","score":"","tutorials":{}
   },
   {
     "id":"ave-maria-arcadelt","type":"choir","title":"Ave Maria","artist":"Jacques Arcadelt","key":"F major","tags":["chant à la Vierge","polyphonie"],
-    "overallAudio":"https://www.youtube.com/results?search_query=Arcadelt+Ave+Maria+choir","score":"","tutorials":{}
+    "overallAudio":"https://www.youtube.com/results?search_query=Arcadelt+Ave+Maria+choir","score":"scores/hosita-sancta.pdf","tutorials":{}
   },
   {
     "id":"amazing-grace","type":"pop","title":"Amazing Grace","artist":"Traditional","key":"G","capo":0,"tags":["adoration"],
