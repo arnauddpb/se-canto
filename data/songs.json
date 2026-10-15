@@ -20,7 +20,7 @@
     "content":"[C]Au clair de la lune, mon ami Pierrot\nPrête-moi ta plume pour écrire un [G]mot\nMa chandelle est [C]morte, je n'ai plus de [F]feu\nOuvre-moi ta [C]porte, pour l'amour de [G]Dieu [C]"
   },
   {
-    "id":"santiano","type":"pop","title":"Santiano","artist":"Hugues Aufray","key":"E","capo":0,"tags":["Chanson française,""Scout"],
+    "id":"santiano","type":"pop","title":"Santiano","artist":"Hugues Aufray","key":"E","capo":0,"tags":["Chanson française","Scout"],
     "content":"[Em]                     [D]\nC'est un fameux trois-mâts fin comme un oiseau\n[Em]        [D]\nHissez haut Santiano"
   }
 ]
