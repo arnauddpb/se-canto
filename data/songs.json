@@ -1,0 +1,18 @@
+[
+  {
+    "id":"dona-nobis-pacem","type":"choir","title":"Dona Nobis Pacem","artist":"Traditional canon","key":"F major","tags":["polyphonie"],
+    "overallAudio":"https://www.youtube.com/results?search_query=Dona+Nobis+Pacem+choir","score":"","tutorials":{}
+  },
+  {
+    "id":"ave-maria-arcadelt","type":"choir","title":"Ave Maria","artist":"Jacques Arcadelt","key":"F major","tags":["chant à la Vierge","polyphonie"],
+    "overallAudio":"https://www.youtube.com/results?search_query=Arcadelt+Ave+Maria+choir","score":"","tutorials":{}
+  },
+  {
+    "id":"amazing-grace","type":"pop","title":"Amazing Grace","artist":"Traditional","key":"G","capo":0,"tags":["adoration"],
+    "content":"[G]Amazing grace, how [C]sweet the [G]sound\nThat saved a soul like [D]me\nI [G]once was lost, but [C]now am [G]found\nWas blind, but [D]now I [G]see"
+  },
+  {
+    "id":"au-clair-de-la-lune","type":"pop","title":"Au clair de la lune","artist":"Chanson traditionnelle française","key":"C","capo":0,"tags":["chanson française"],
+    "content":"[C]Au clair de la lune, mon ami Pierrot\nPrête-moi ta plume pour écrire un [G]mot\nMa chandelle est [C]morte, je n'ai plus de [F]feu\nOuvre-moi ta [C]porte, pour l'amour de [G]Dieu [C]"
+  }
+]
